@@ -18,6 +18,7 @@ public class LargeststringPrint {
 
         }
         System.out.println("The largest String is : "+largest);
+        System.out.println("The largest String is : "+largest);
 
 
 
